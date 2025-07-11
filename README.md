@@ -1,4 +1,4 @@
-# steamlit_churn_classification
+# ann_churn_classification
 
 To run streamlit application type this in cmd
 
